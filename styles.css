@@ -1,0 +1,45 @@
+body{
+    background-color: lightblue;
+  }
+  
+  h2, h3{
+    font-size: 50px;
+    color: cadetblue;
+    text-align: center;
+  }
+  
+  #submit{
+    background-color: burlywood;
+  }
+  
+  .form_input{
+    border-radius: 6px;
+    border-color: blueviolet;
+  }
+  
+  p.centered {
+    text-align: center;
+    color: purple;
+  }
+  marca_de_verificación_blanca
+  ojos
+  manos_levantadas
+  .side-to-side{
+    display: block;
+    border: solid;
+  }
+  .narrow{
+    display: inline;
+    border: solid;
+  } 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
